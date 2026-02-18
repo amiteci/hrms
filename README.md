@@ -260,6 +260,34 @@ http://localhost:5173
 
 ---
 
+## 📸 Application Screenshots
+
+### 🔐 Login Page
+
+![Login](screenshots/login.png)
+
+### 📊 Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### 👨‍💼 Employees Management
+
+![Employees](screenshots/employees.png)
+
+### 🌴 Leaves Management
+
+![Leaves](screenshots/leaves.png)
+
+### 📋 Tasks Management
+
+![Tasks](screenshots/tasks.png)
+
+### 📄 Swagger API Documentation
+
+![Swagger](screenshots/swagger.png)
+
+---
+
 # 👨‍💻 Author
 
 **Amit Rajput**
